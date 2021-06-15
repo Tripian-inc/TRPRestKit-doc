@@ -10,7 +10,6 @@ Tripian Rest Kit framework is written in Swift.
 
 The key features are:
 - [Features](#features)
-- [Documentation](#documentation)
 - [Component Frameworks](#component-frameworks)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -35,9 +34,6 @@ The key features are:
 * Comprehensive Unit and Integration Test Coverage.
 * English and French Language Support.
 
-## Documentation
-
-See the [TRPRestKit documentation](http://airmiles-api-1837638174.ca-central-1.elb.amazonaws.com/apidocs/#tripian-recommendation-engine) for usage examples.
 
 ## Component Frameworks
 
