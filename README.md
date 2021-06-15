@@ -330,17 +330,17 @@ TRPRestKit().quickRecommendation(settings: settings) { (result, error, paginatio
 
 ### Creating Trip
 <p align="center">
-  <img src="https://github.com/Tripian-inc/TRPRestKit-doc//blob/master/CreateTrip.png" height="300" alt="Creating Trip">
+  <img src="https://github.com/Tripian-inc/TRPRestKit-doc/blob/main/CreateTrip.png" height="300" alt="Creating Trip">
 </p>
 
 ### Trip Info
 <p align="center">
-<img src="https://github.com/Tripian-inc/TRPRestKit-doc//blob/master/OpenTrip.png" height="300" alt="Trip Info">
+<img src="https://github.com/Tripian-inc/TRPRestKit-doc/blob/main/OpenTrip.png" height="300" alt="Trip Info">
 </p>
 
 ### Understanding Daily Plans
 <p align="center">
-<img src="https://github.com/Tripian-inc/TRPRestKit-doc//blob/master/Undestand%20DailyPlans.png" height="300" alt="Daily Plans">
+<img src="https://github.com/Tripian-inc/TRPRestKit-doc/blob/main/Undestand%20DailyPlans.png" height="300" alt="Daily Plans">
 </p>
 
 ## Examples
