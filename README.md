@@ -325,23 +325,22 @@ TRPRestKit().quickRecommendation(settings: settings) { (result, error, paginatio
 ```
 </details>
 
-Consult the [Api Documentation](https://tripian-inc.github.io/APIV3-Released/dev/api-spec.html),[Unit and Integration Tests](https://tripian-inc.github.io/APIV3-Released/dev/api-spec.html) for further details.
 
 ## Use Cases
 
 ### Creating Trip
 <p align="center">
-  <img src="https://github.com/Tripian-inc/TRPRestKit/blob/master/CreateTrip.png" height="300" alt="Creating Trip">
+  <img src="https://github.com/Tripian-inc/TRPRestKit-doc//blob/master/CreateTrip.png" height="300" alt="Creating Trip">
 </p>
 
 ### Trip Info
 <p align="center">
-<img src="https://github.com/Tripian-inc/TRPRestKit/blob/master/OpenTrip.png" height="300" alt="Trip Info">
+<img src="https://github.com/Tripian-inc/TRPRestKit-doc//blob/master/OpenTrip.png" height="300" alt="Trip Info">
 </p>
 
 ### Understanding Daily Plans
 <p align="center">
-<img src="https://github.com/Tripian-inc/TRPRestKit/blob/master/Undestand%20DailyPlans.png" height="300" alt="Daily Plans">
+<img src="https://github.com/Tripian-inc/TRPRestKit-doc//blob/master/Undestand%20DailyPlans.png" height="300" alt="Daily Plans">
 </p>
 
 ## Examples
@@ -351,8 +350,8 @@ The [TRPRestKit-IOS-Examples](https://github/trprestkitiosexamples) includes exa
 1. Clone the repository or download the [.zip file](https://github.com/tripian/trprestkit-ios/archive/master.zip)
 1. Run `pod repo update && pod install` and open the resulting Xcode workspace.
 1. Open `TrpRestKitIOSExample.xcodeproj`.
-1. Sign up or log in to your Tripian account and grab a [Tripian Access Token](https://www.tripian.com/request-api-key/).
-1. Open the Info.plist in the `Example` target and paste your [Tripian Access Token](https://www.tripian.com/request-api-key/) into `TripianAccessToken`. (Alternatively, you can set the access token while calling the `TrpRestKit(withAccessToken: AccessToken)` instead of adding it to Info.plist.)
+1. Sign up or log in to your Tripian account and grab a [Tripian Access Token](https://www.tripian.com/).
+1. Open the Info.plist in the `Example` target and paste your [Tripian Access Token](https://www.tripian.com/) into `TripianAccessToken`. (Alternatively, you can set the access token while calling the `TrpRestKit(withAccessToken: AccessToken)` instead of adding it to Info.plist.)
 1. Build and run the `Example` target.
 
 - TrpRestKitiOS.Tests includes comprehensive Unit and Integration Tests of Tripian Rest Kit SDK features.
